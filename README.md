@@ -35,7 +35,7 @@ In a new tab run the app for your device
 ##### uninstall old app
 
 ```shell
-> adb uninstall com.autoserve
+> adb uninstall com.appName
 ```
 
 ### Run iOS
